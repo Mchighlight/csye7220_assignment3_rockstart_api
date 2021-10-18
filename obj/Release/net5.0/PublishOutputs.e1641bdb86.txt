@@ -1,0 +1,11 @@
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/rockstar_api
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/appsettings.Development.json
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/appsettings.json
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/rockstar_api.dll
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/rockstar_api.deps.json
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/rockstar_api.runtimeconfig.json
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/rockstar_api.pdb
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mchighlight/class/csye7220/Week3/rockstar_api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
